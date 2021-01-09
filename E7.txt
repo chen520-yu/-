@@ -1,0 +1,17 @@
+Compiling single file...
+--------
+- Filename: D:\暂时存放\A7.cpp
+- Compiler Name: TDM-GCC 4.9.2 32-bit Profiling
+
+Processing C++ source file...
+--------
+- C++ Compiler: D:\mode\Dev-Cpp\MinGW64\bin\g++.exe
+- Command: g++.exe "D:\暂时存放\A7.cpp" -o "D:\暂时存放\A7.exe" -m32 -pg -I"D:\mode\Dev-Cpp\MinGW64\include" -I"D:\mode\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include" -I"D:\mode\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include" -I"D:\mode\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++" -L"D:\mode\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib32" -static-libgcc -m32 -pg
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: D:\暂时存放\A7.exe
+- Output Size: 125.7626953125 KiB
+- Compilation Time: 1.14s
